@@ -5,4 +5,4 @@
 Etim: de [[Diccionario/ablana\|ablana]]
 1. *f.* Avellano
 
-Rel: [[Diccionario/ablanier, era\|ablanier, era]]
+Rel: [[Diccionario/ablanier, era\|ablanier]]

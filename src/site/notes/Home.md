@@ -3,4 +3,4 @@
 ---
 
 El diccionario Naurés-Castellano está disponible online!
- [[Diccionario/a\|a]]
+ [[Diccionario/a\|Diccionario/a]]
